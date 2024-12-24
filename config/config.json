@@ -1,0 +1,5 @@
+{
+    "enabled": true,
+    "chaos": true,
+    "debugLogging": true
+}
